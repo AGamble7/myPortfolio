@@ -1985,9 +1985,10 @@ input, select, textarea {
 	}
 
 		.item header {
-			background: #fff;
-			margin: 0;
 			padding: 1em 0 1em 0;
+			background: #fff;
+			border-radius: 5px;
+			
 			font-size: 0.8em;
 		}
 
