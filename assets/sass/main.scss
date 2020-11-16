@@ -306,18 +306,19 @@
 		border: 0;
 
 		img {
-			display: block;
-			width: 100%;
+			// display: block;
+			width: 50%;
+			height: 100;
 		}
 
 		&.avatar48 {
-			width: 48px;
-			height: 48px;
-			background: #f00;
+			// width: 48px;
+			// height: 48px;
+			 background: #f00;
 
 			img {
-				width: 48px;
-				height: 48px;
+				 width: 48px;
+				 height: 48px;
 			}
 		}
 
